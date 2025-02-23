@@ -2,8 +2,8 @@
 (English Follows Japanese)
 
 ## 概要
-![suika15tone1](https://i.imgur.com/r0shhWR.jpg)
-![suika15tone2](https://i.imgur.com/7lCqpEX.jpg)
+![suika15tone1](img/suika15tone_1.jpg)
+![suika15tone2](img/suika15tone_2.jpg)
 
 suika15toneは1オクターブのピアノ鍵盤型マクロキーパッドです。
 通常のマクロキーパッドとしても使えるほか、MIDIキーボードとしてDAWソフトの入力や演奏に使用できます。
@@ -13,7 +13,7 @@ suika15toneは1オクターブのピアノ鍵盤型マクロキーパッドで�
 
 ## ビルドガイド
 
-[こちら](https://github.com/suikagiken/suika15tone/blob/main/buildguide_1.1.md)からご覧下さい。
+[こちら](https://github.com/suikagiken/suika15tone/blob/main/buildguide_1.0.md)からご覧下さい。
 
 ---
 
